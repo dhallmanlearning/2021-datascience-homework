@@ -65,7 +65,6 @@ Similarly, for python, you should see something like this:
 $ python --version
 Python 3.8.5
 ```
-
 Note that all of these commands can be done through the Anaconda Navigator itself. To do so, go to the "Environments" tab on the left-hand side of Anaconda Navigator. From there, you can search for python (or any of the other packages installed) and the version will be clearly indicated.
 
 You can also check out the [official website](http://conda.pydata.org/docs/test-drive.html) for more details on anaconda, environments, and packages.
